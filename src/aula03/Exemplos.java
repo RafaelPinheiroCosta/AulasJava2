@@ -5,5 +5,7 @@ public class Exemplos {
         final int TESTE = 3;
 
         System.out.println(TESTE);
+
+        System.out.println("teste");
     }
 }
