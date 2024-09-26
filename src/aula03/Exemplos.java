@@ -7,5 +7,7 @@ public class Exemplos {
         System.out.println(TESTE);
 
         System.out.println("teste");
+
+        System.out.println("3");
     }
 }
