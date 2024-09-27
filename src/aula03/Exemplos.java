@@ -2,14 +2,18 @@ package aula03;
 
 public class Exemplos {
     public static void main(String[] args) {
-        final int TESTE = 3;
+      int anoNasc;
+      double peso;
+      char sexo;
+      boolean canhato;
 
-        System.out.println(TESTE);
+        anoNasc = 1984;
+        peso = 97.0;
+        sexo = 'M';
 
-        System.out.println("teste");
 
-        System.out.println("3");
+        anoNasc++;
 
-        System.out.println("4");
+        System.out.println(anoNasc);
     }
 }
